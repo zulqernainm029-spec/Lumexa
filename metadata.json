@@ -1,0 +1,6 @@
+{
+  "name": "Lumexa",
+  "description": "Premium social video chat app to meet people, chat privately, join voice rooms, call, share posts, send virtual gifts, and purchase VIP memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
